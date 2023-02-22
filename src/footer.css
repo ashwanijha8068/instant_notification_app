@@ -1,0 +1,46 @@
+
+
+
+.footer {
+ 
+    width: 100%;
+    height: 150px;
+    background-color: #75b2dc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+    
+    
+  
+   
+    
+  }
+  
+  .socialMedia svg {
+    color: white;
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+  }
+  .lin{
+    height:60px;
+    
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+  }
+  .lc{
+    height:60px;
+    
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+  
+  }
+  
+  .footer p {
+    color: white;
+  }
+  
